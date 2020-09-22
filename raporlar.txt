@@ -1,0 +1,8 @@
+ProjeNo: 4
+HakedisDonem: 2
+UrunNo: 3
+Urun Adi: Pendir
+Urun Birimi: kg
+Urun Birim Fiyati: 11
+Urun Markasi: Labne
+---------------------

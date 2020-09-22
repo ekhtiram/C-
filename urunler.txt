@@ -1,0 +1,18 @@
+UrunNo: 3
+Urun Adi: Pendir
+Urun Birimi: kg
+Urun Birim Fiyati: 11
+Urun Markasi: Labne
+---------------------
+UrunNo: 4
+Urun Adi: Yag
+Urun Birimi: lt
+Urun Birim Fiyati: 12
+Urun Markasi: Prezident
+---------------------
+UrunNo: 5
+Urun Adi: Su
+Urun Birimi: lt
+Urun Birim Fiyati: 13
+Urun Markasi: Gedebey
+---------------------

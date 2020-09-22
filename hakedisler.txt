@@ -1,0 +1,14 @@
+ProjeNo: 5
+Hakedis donemi: 34
+Urun(adet): 5 4
+Urun(adet): 5 32
+Urun(adet): 5 45
+Urun(adet): 3 1
+---------------------
+ProjeNo: 4
+Hakedis donemi: 3
+Urun(adet): 5 54
+Urun(adet): 5 34
+Urun(adet): 3 78
+Urun(adet): 3 97
+---------------------
